@@ -6,7 +6,7 @@
         ?>
     </div>
 <?php }?>
-<div class="card">
+<div class="card mt-4">
     <div class="card-body">
         <h4 class="card-title">Agregar un producto</h4>
         <p class="card-text">
